@@ -1,2 +1,53 @@
 # GhostHackers
 ANONYMOUS
+
+![pyversions](https://img.shields.io/badge/python%20-2.7%2B-blue.svg)
+![ver](https://img.shields.io/badge/release-v0.0.3-red.svg)
+[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-ff69b4.svg)](https://github.com/AliEbadi/Pwn)
+
+
+NO MORE UPDATE 
+
+
+
+```
+
+
+```
+
+![Screen Shot](http://www.axgig.com/images/72289486283867872103.png)
+# Usage
+python instagram.py  [Username]  [wordlist]
+
+`python instagram.py username password.txt`
+
+for android you must install [Kali Linux NetHunter](https://www.kali.org/kali-linux-nethunter/)
+
+![Screen Shot](https://www.kali.org/wp-content/uploads/2013/09/kali-android-deploy-798x284.png)
+
+## Requirements
+[mechanize](https://pypi.python.org/pypi/mechanize/) install with: `pip install mechanize`
+
+[requests](https://pypi.python.org/pypi/requests/2.18.4) install with: `pip install requests`
+
+[Tor](https://www.torproject.org/docs/debian) install with: `sudo apt-get install tor`
+
+## Changelog
+## [0.0.1] - [Released]
+- REMOVED PROXYLIST FROM SCRIPT 
+- ADDED AUTO PROXY CHANGER (WITH tor proxy anonymous)
+## [0.0.2] - [Released]
+- NOW IT'S WORKS ON WINDOWS (TESTED ON WINDOWS 7 , 8 , 10)
+## [0.0.3] - [Released]
+- NOW IT'S WORKS ON ANDROID 
+## [1.0.0] - [Unreleased] [Big Update]
+### Comming soon 
+-  it's will [wordlist] [passwordlist] 
+-  it's will be faster
+-  Bug fixes and improvements
+-  UI update
+-  auto verify bypass
+-  optimize performances
+-  optimize connect
+-  add more servers
